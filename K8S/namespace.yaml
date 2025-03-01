@@ -1,6 +1,6 @@
 apiversion: v1
 kind: namespace 
-metadeta:
+metadata:
   name: hotstar
   labels: 
     environment: dev
